@@ -13,7 +13,7 @@ badge&amp;logo=git&amp;logoColor=white)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-
 langs/?username=renukacsit&amp;layout=compact)
-## Connect with Me- ✉️ Email: saicharan@example.com-  LinkedIn: [Renu
-Profile](https://linkedin.com/in/renuka-example)
+## Connect with Me- ✉️ Email: saicharan@example.com-  LinkedIn: [sai
+Profile]
